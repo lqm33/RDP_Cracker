@@ -1,1 +1,2 @@
-# RDP_Cracker
+Install https://nmap.org/download.html
+And running rdpcracker.py
